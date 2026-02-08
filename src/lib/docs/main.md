@@ -61,3 +61,33 @@ I find my favorite writeups on hacker news, so if you want any inspiration, feel
 My biggest tip is to constantly re-read what you've writted until you think you're done. It'll help you catch mistakes, improve clarity, and will give your post a higher chance of succeeding.
 
 Another really important tip I've learned while shipping specifically on hacker news is to submit to the [second chance pool](https://news.ycombinator.com/item?id=26998308). If your ship post doesn't initially hit it off, It'll basically put your project on the front page for a short amount of time and kickstart it again. Just don't abuse it and get us in trouble ;)
+
+## Part 3 - Time to ship >:)
+
+Now you finally have a high quality project ready to ship. Here's a couple tips I've learned while shipping that you'll probably appreciate!
+
+The first thing is where you should post your actual project. My 2 favorite places are on Reddit and HackerNews, so make sure to put it on both of those platforms. But then you also need to go about choosing the best subreddits! Here's a couple good subreddits for shipping your projects on, make sure you post on a subreddit *related* to your project:
+- r/embedded and r/electronics for moreso electronics/PCB based technical projects
+- r/3Dprinting for strongly 3D printer related projects
+- r/MechanicalKeyboards for macropads and keyboards
+- Niche subreddits if you have a project related to something really specific like aviation persay 
+
+Keep your hacker news posts more technical and your reddit posts can be a bit more casual. I'd suggest changing your writeups a little bit whenever you submit it to a different community and tailor it to that space. Post your project on Reddit to at most 2 to 3 subreddits.
+
+Now here's a couple tips I have:
+
+Ship not at the "most popular" times, but when you're the most available to respond to comments. If you've created a cool project, it'll get seen, so don't really worry about the best possible times to post your project. Instead, focus on when you have free time to respond to comments on your project so you can increase engagement and get more people talking about it, and sharing it.
+
+Email hn@ycombinator.com if your project didn't get any initial traction on HN to get submitted into the second chance pool! Please don't spam them, but it's a great oppurtunity for your project to quickly get lots of visibility! [Please read this full post if you're doing so](https://news.ycombinator.com/item?id=26998308).
+
+Always post your project with an image or video of some sort. I find that images usually get more visibility, but videos have the potential of more; they're just a bit harder to pull off nicely. You can also link a video in your writeup!
+
+No punctuation mistakes. Make sure your writeup flows nicely, double check details.
+
+The comments aren't criticism, they're feedback, take it all with a grain of salt, not everyone will be right, but treat them as so. You don't even need to respond to like half of it, and you might get some ragebait lol.
+
+If you share a project online, it's great if you include Hackclub in it, even if it's something small like including it in your readme as a contribution. By shipping projects, you're sharing knowledge, and you want to inspire people and teach them that there's cool communities like hackclub where they can learn all these amazing things.
+
+It would also be amazing if you could share your project in #ship on slack, even ping me too if you want to, I love seeing all the cool projects hackclubbers are working on!!! 
+
+Now... **let's ship it.**
