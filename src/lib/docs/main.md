@@ -16,7 +16,7 @@ These shipped projects all share a couple things in common:
 
 ## Part 1 - Creating a High Quality/Technical Writeup
 
-Nearly all the projects you want to ship should have a writeup that details the creation of your project. There's some exceptions like visual and less-technical projects like the [biblically accurate keyboard](https://www.reddit.com/r/MechanicalKeyboards/comments/1mf0fmm/the_biblically_accurate_keyboard/), but I would always suggest detailing your entire process, creating your project. 
+Nearly any project you're going to ship should have a writeup that details the creation of your project. There's some exceptions like visual and less-technical projects like the [biblically accurate keyboard](https://www.reddit.com/r/MechanicalKeyboards/comments/1mf0fmm/the_biblically_accurate_keyboard/), but I would always suggest detailing your entire process, creating your project. 
 
 So let's look at the key details of what makes a good technical writeup. I would actually suggest changing your writeup depending on the platform you're sharing your project on. 
 

@@ -10,4 +10,10 @@
 	<title>ship projects, get prizes</title>
 </svelte:head>
 
-{@render children()}
+<div class="min-h-screen flex flex-col">
+	{@render children()}
+
+	<div class="mt-auto text-center mb-8">
+		<a href="https://github.com/KaiPereira" target="_blank" rel="noreferrer" class="inline-block underline decoration-wavy">Made by Kai Pereira :D</a>
+	</div>
+</div>

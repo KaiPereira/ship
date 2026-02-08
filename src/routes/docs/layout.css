@@ -13,7 +13,7 @@ h1 {
 }
 
 h2 {
-	margin-top: 30px;
+	margin-top: 26px;
 	font-size: 30px;
 }
 
@@ -27,4 +27,8 @@ a {
 	display: inline-block;
 	text-decoration: underline;
 	text-decoration-style: wavy;
+}
+
+a:hover {
+	transform: scale(1.02) rotate(-0.7deg);
 }
