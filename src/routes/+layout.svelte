@@ -7,7 +7,7 @@
 
 <svelte:head>
 	<link rel="icon" href={favicon} />
-	<title>Ship Projects, Get Prizes</title>
+	<title>ship projects, get prizes</title>
 </svelte:head>
 
 {@render children()}

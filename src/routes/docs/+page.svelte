@@ -1,5 +1,5 @@
 <script>
 	export let data;
-
-	console.log(data);
 </script>
+
+{@html data.content}
