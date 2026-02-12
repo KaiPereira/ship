@@ -12,6 +12,7 @@
 			<p class="text-xl">Tier 1</p>
 			<span class="mt-6">6 stars or</span>
 			<span>50 upvotes reddit</span>
+			<span>15 upvotes HN</span>
 		</div>
 		<div class="tier bg-[url('/images/circly_circle.svg')] mt-12">
 			<p class="text-xl">Tier 2</p>
@@ -27,7 +28,7 @@
 		</div>
 	</div>
 
-	<a class="button" href="https://forms.google.com" target="_blank" rel="noreferrer">
+	<a class="button" href="https://forms.hackclub.com/t/nhDGz59P81us" target="_blank" rel="noreferrer">
 		Submit a Project →
 	</a>
 </div>
