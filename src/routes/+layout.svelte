@@ -10,7 +10,7 @@
 	<title>ship projects, get prizes</title>
 </svelte:head>
 
-<div class="min-h-screen flex flex-col">
+<div class="min-h-screen flex flex-col relative overflow-hidden">
 	{@render children()}
 
 	<div class="mt-auto text-center mb-8">

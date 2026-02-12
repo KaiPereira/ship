@@ -3,18 +3,18 @@
 </div>
 
 <div class="min-h-[calc(100vh-240px)] flex flex-col items-center justify-center w-full">
-	<h1 class="text-7xl font-bold">Share Projects, Get Prizes</h1>
+	<h1 class="text-center text-5xl lg:text-7xl font-bold">Share Projects, Get Prizes</h1>
 
-	<p class="mt-7 text-slate-600">Submits <span class="underline">hardware</span> projects you've shared with the world to get cool prizes like custom shirts, stickers and much more!</p>
+	<p class="text-center mt-7 text-slate-600">Submits <span class="underline">hardware</span> projects you've shared with the world to get cool prizes like custom shirts, stickers and much more!</p>
 
-	<div class="flex justify-around gap-24 mt-14">
+	<div class="flex justify-around gap-0 lg:gap-24 mt-14 flex-wrap">
 		<div class="tier bg-[url('/images/normal_circle.svg')]">
 			<p class="text-xl">Tier 1</p>
 			<span class="mt-6">6 stars or</span>
 			<span>50 upvotes reddit or</span>
 			<span>15 upvotes HN</span>
 		</div>
-		<div class="tier bg-[url('/images/circly_circle.svg')] mt-12">
+		<div class="tier bg-[url('/images/circly_circle.svg')] lg:mt-12">
 			<p class="text-xl">Tier 2</p>
 			<span class="mt-6">20 stars or</span>
 			<span>150 upvotes reddit or</span>
@@ -33,9 +33,9 @@
 	</a>
 </div>
 
-<a href="https://hackclub.com/" target="_blank" rel="noreferrer" class="absolute w-52 top-0 left-16" >
+<a href="https://hackclub.com/" target="_blank" rel="noreferrer" class="absolute w-24 w-52 top-0 left-16 hidden lg:block" >
 	<img src="/images/hackclub_branding.svg"/>
 </a>
-<img src="/images/tiny4fsk.png" class="absolute w-lg right-0 bottom-0 drop-shadow -z-1" />
-<img src="/images/icepi.png" class="absolute -left-30 -rotate-20 w-md top-46 drop-shadow -z-1" />
-<img src="/images/cheetahmx4mini.png" class="absolute bottom-0 -left-12 w-md drop-shadow -z-1" />
+<img src="/images/tiny4fsk.png" class="absolute w-md 2xl:w-lg right-0 -bottom-36 2xl:bottom-0 drop-shadow -z-1 hidden lg:block" />
+<img src="/images/icepi.png" class="absolute -left-30 -rotate-20 w-md top-46 drop-shadow -z-1 hidden 2xl:block" />
+<img src="/images/cheetahmx4mini.png" class="absolute bottom-0 -left-12 w-sm 2xl:w-md drop-shadow -z-1 hidden lg:block" />
